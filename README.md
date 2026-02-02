@@ -1,4 +1,4 @@
-##PennyLane Codebook: Quantum Codercises
+# PennyLane Codebook: Quantum Codercises
 
 This repository contains my solutions and implementations for the PennyLane Codebook by Xanadu. The Codebook is a comprehensive resource that blends quantum computing theory with hands-on programming using the PennyLane library.
 
@@ -6,11 +6,11 @@ This repository contains my solutions and implementations for the PennyLane Code
 
 The goal of this repository is to document my progress through the foundational and advanced topics of quantum computing. Each module includes Python scripts and Jupyter Notebooks that solve specific "codercises," focusing on circuit construction, state preparation, and quantum algorithm design.
 
-#📚 Modules Covered
+# 📚 Modules Covered
 
-#Quantum Foundations
+# Quantum Foundations
 
-*PennyLane Fundamentals: Learning the basics of the library and QNodes.
+* PennyLane Fundamentals: Learning the basics of the library and QNodes.
 
 Introduction to Quantum Computing: Fundamental concepts of qubits and superposition.
 
@@ -18,7 +18,7 @@ Single-Qubit Gates: Mastering rotations on the Bloch Sphere ($RX$, $RY$, $RZ$, $
 
 Circuits with Many Qubits: Entanglement, CNOT gates, and multi-qubit systems.
 
-#Algorithms & Theory
+# Algorithms & Theory
 
 Basic Quantum Algorithms: Implementing Deustch-Jozsa and other early protocols.
 
@@ -30,9 +30,9 @@ Quantum Phase Estimation (QPE): Estimating eigenvalues of unitary operators.
 
 Shor's Algorithm: Quantum factoring and period finding.
 
-#Advanced Topics & Simulation
+# Advanced Topics & Simulation
 
-Hamiltonian Time Evolution: Simulating the dynamics of quantum systems.
+* Hamiltonian Time Evolution: Simulating the dynamics of quantum systems.
 
 Hamiltonian Simulation: Techniques for mapping physics problems to circuits.
 
@@ -44,7 +44,7 @@ Quantum Error Correction: Protecting quantum information from noise.
 
 Distance Measures: Quantifying the difference between quantum states.
 
-#🛠️ Tools Used
+# 🛠️ Tools Used
 
 Language: Python
 
@@ -52,4 +52,4 @@ Library: PennyLane
 
 Environment: Jupyter Notebooks / VS Code
 
-#Note: I just started to add all of the codercises and I will finish it very soon.
+# Note: I just started to add all of the codercises and I will finish it very soon.
