@@ -1,3 +1,5 @@
+#I.1.2 Inner Product and Orthonormal bases
+
 import pennylane as qml
 from pennylane import numpy as np
 import matplotlib.pyplot as plt
@@ -10,4 +12,5 @@ def inner_product(state_1, state_2):
     return inner_product
 
 print(f"{inner_product(ket_0,ket_1)}")
+
 print(f"{inner_product(ket_1,ket_1)}")
