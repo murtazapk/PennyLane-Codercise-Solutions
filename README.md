@@ -12,44 +12,44 @@ The goal of this repository is to document my progress through the foundational 
 
 * PennyLane Fundamentals: Learning the basics of the library and QNodes.
 
-Introduction to Quantum Computing: Fundamental concepts of qubits and superposition.
+* Introduction to Quantum Computing: Fundamental concepts of qubits and superposition.
 
-Single-Qubit Gates: Mastering rotations on the Bloch Sphere ($RX$, $RY$, $RZ$, $H$, etc.).
+* Single-Qubit Gates: Mastering rotations on the Bloch Sphere ($RX$, $RY$, $RZ$, $H$, etc.).
 
-Circuits with Many Qubits: Entanglement, CNOT gates, and multi-qubit systems.
+* Circuits with Many Qubits: Entanglement, CNOT gates, and multi-qubit systems.
 
 # Algorithms & Theory
 
-Basic Quantum Algorithms: Implementing Deustch-Jozsa and other early protocols.
+* Basic Quantum Algorithms: Implementing Deustch-Jozsa and other early protocols.
 
-Grover's Algorithm: Unstructured search and amplitude amplification.
+* Grover's Algorithm: Unstructured search and amplitude amplification.
 
-Quantum Fourier Transform (QFT): The backbone of many quantum speedups.
+* Quantum Fourier Transform (QFT): The backbone of many quantum speedups.
 
-Quantum Phase Estimation (QPE): Estimating eigenvalues of unitary operators.
+* Quantum Phase Estimation (QPE): Estimating eigenvalues of unitary operators.
 
-Shor's Algorithm: Quantum factoring and period finding.
+* Shor's Algorithm: Quantum factoring and period finding.
 
 # Advanced Topics & Simulation
 
 * Hamiltonian Time Evolution: Simulating the dynamics of quantum systems.
 
-Hamiltonian Simulation: Techniques for mapping physics problems to circuits.
+* Hamiltonian Simulation: Techniques for mapping physics problems to circuits.
 
-Variational Quantum Algorithms (VQAs): Hybrid classical-quantum optimization.
+* Variational Quantum Algorithms (VQAs): Hybrid classical-quantum optimization.
 
-Noisy Quantum Theory: Understanding decoherence and environmental effects.
+* Noisy Quantum Theory: Understanding decoherence and environmental effects.
 
-Quantum Error Correction: Protecting quantum information from noise.
+* Quantum Error Correction: Protecting quantum information from noise.
 
-Distance Measures: Quantifying the difference between quantum states.
+* Distance Measures: Quantifying the difference between quantum states.
 
 # 🛠️ Tools Used
 
-Language: Python
+* Language: Python
 
-Library: PennyLane
+* Library: PennyLane
 
-Environment: Jupyter Notebooks / VS Code
+* Environment: Jupyter Notebooks / VS Code
 
 # Note: I just started to add all of the codercises and I will finish it very soon.
