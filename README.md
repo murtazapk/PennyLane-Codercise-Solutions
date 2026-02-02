@@ -2,7 +2,7 @@
 
 This repository contains my solutions and implementations for the PennyLane Codebook by Xanadu. The Codebook is a comprehensive resource that blends quantum computing theory with hands-on programming using the PennyLane library.
 
-#🚀 About the Project
+# 🚀 About the Project
 
 The goal of this repository is to document my progress through the foundational and advanced topics of quantum computing. Each module includes Python scripts and Jupyter Notebooks that solve specific "codercises," focusing on circuit construction, state preparation, and quantum algorithm design.
 
