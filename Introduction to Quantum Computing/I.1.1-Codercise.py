@@ -1,4 +1,8 @@
 #codercise 1.1.1
+
+
+import pennylane as qml
+from pennylane import numpy as np
 ket_0=np.array([1,0])
 ket_1=np.array([0,1])
 def normalize_state(alpha,beta):
@@ -8,3 +12,4 @@ def normalize_state(alpha,beta):
 
     return normalized_state
     pass
+
